@@ -1,0 +1,54 @@
+# Developer-Assessment
+
+Link to the prototype 👉 - [Figma Design](https://www.figma.com/proto/28lO4HbTbOBiGcQDyeTprA/BotsZA-CRUD-Profile?node-id=1%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3)
+
+## Purpose
+
+The main purpose of this Assessment is to get you to build your own CRUD profile application using the Tech Stack below. By building this project you would be demonstrating your knowledge in working with `REST` web API's, Angular, HTML&CSS, TypeScript, .Net Core, C# and Postgresql database. 
+
+# Prototype Screens
+
+## Screen 1
+
+![Screenshot 2021-08-07 at 14 35 52](https://user-images.githubusercontent.com/54524026/128601712-ad3e5c14-f489-4098-9bee-ebdaa8113944.png)
+
+## Screen 2
+
+![Screenshot 2021-08-07 at 14 36 11](https://user-images.githubusercontent.com/54524026/128601717-2c7ba7c4-dee2-4599-8248-a62e5b688ebd.png)
+
+# Tech Stack
+- Angular 
+- HTML
+- css 💅
+- TypeScript
+- .Net Core
+- C# (Entity Framework) 
+- Postgresql
+- Data Transfer Object (DTO)
+
+
+# Instructions
+
+#### Getting setup
+
+- First clone the repo and create your own branch to commit your changes
+- Name your branch like this 👉 `name-surname`
+- Just make sure your local dev environment is setup and ready to go with the Tech Stack mentioned above
+
+#### Front-End
+
+- You are only allowed to use pure `css/scss` to style your pages and that means no css frameworks or libraries e.g. `tailwind css`, `bootstrap`... etc, just keep it simple.
+- You can make API calls to your back-end in any way you like, you can use the default `RxJs` library or whatever you are comfortable with, we don't judge. 💁🏻‍♂️
+
+#### Back-End
+
+- For working with the database you can use `Entity Framework` if you prefer or just plain SQL with `NpgsqlConnection()` from the `Npgsql` NugetPackage.
+- How you connect to the DB is totally up to you.
+
+#### Please follow best practices & coding standards  
+- Angular coding style guide Angular 👉 [Here](https://angular.io/guide/styleguide) 
+- C#:  👉 - [Here](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+
+# Bonus
+
+Bonus points would be given if you can use the repository pattern, add validations on both the backend & frontend and also host your complete application and send us the link along with your submission. You can use any hosting platform of your choice. You can go wild with how and where to host your application.
